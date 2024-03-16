@@ -1,0 +1,8 @@
+#!/bin/bash
+# Post-installation script for ssha package
+
+# Define path to ASCII art script
+ASCII_ART_SCRIPT="/usr/bin/ascii_art.sh"
+
+# Add command to run ASCII art script to user's .bashrc file
+echo "$ASCII_ART_SCRIPT" >> "$HOME/.bashrc"
