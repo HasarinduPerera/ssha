@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: ssha
-Upstream-Contact: Hasarindu Perera <https://github.com/HasarinduPerera/ssha/issues>
+Upstream-Contact: Hasarindu Perera <user@email.com>
 Source: https://github.com/HasarinduPerera/ssha
 
-Copyright: 2024 Hasarindu Perera <https://github.com/HasarinduPerera/ssha/issues>
+Copyright: 2024 Hasarindu Perera <user@email.com>
 License: [GPL-3.0 license]

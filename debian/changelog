@@ -1,5 +1,5 @@
-ssha (0.01) UNRELEASED; urgency=medium
+ssha (1.0-1) focal; urgency=medium
 
   * Initial release.
 
- -- Hasarindu Perera <https://github.com/HasarinduPerera/ssha/issues>  Mon, 16 Mar 2024 15:30:00 +0000
+ -- Hasarindu Perera <user@email.com>  Mon, 16 Mar 2024 15:30:00 +0000

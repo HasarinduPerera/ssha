@@ -1,15 +1,13 @@
 Source: ssha
 Section: utils
 Priority: optional
-Maintainer: Hasarindu Perera <https://github.com/HasarinduPerera/ssha/issues>
+Maintainer: Hasarindu Perera <user@email.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
 Homepage: https://github.com/HasarinduPerera/ssha
+
 Package: ssha
 Architecture: all
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Description: CLI tool for SSH alias management
- This package provides a command-line interface (CLI) tool for managing SSH aliases. It allows users to add, remove, and connect to SSH servers using user-defined aliases.
- 
- This tool simplifies the process of connecting to SSH servers by enabling users to use custom aliases instead of typing the full server addresses each time.
+Description: CLI tool for SSH alias management. This package provides a command-line interface (CLI) tool for managing SSH aliases. It allows users to add, remove, and connect to SSH servers using user-defined aliases. This tool simplifies the process of connecting to SSH servers by enabling users to use custom aliases instead of typing the full server addresses each time.
 XB-Postinst: postinst
