@@ -41,7 +41,7 @@ After installation, you can use the `ssha` command to manage SSH aliases. Here a
   ssha del <alias>
   ```
 
-- **Show All Existing Alias:**
+- **Show All Existing Aliases:**
 
   ```bash
   ssha show
